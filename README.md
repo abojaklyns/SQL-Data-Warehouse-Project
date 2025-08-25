@@ -37,20 +37,12 @@ This project is Licensed under the .[MIT License](LICENSE).You are free to use, 
 ## About Me
 
 👋 Hi there! I'm **Jackline Abbo** 
-
 Welcome to my project! I’m a data enthusiast with a background in data analytics, healthcare, ecommerce, and SQL development, passionate about turning raw data into meaningful insights.
-
 This repository showcases my work on building and managing a SQL Data Warehouse — covering topics like:
-
 🗂️ Data modeling & schema design
-
 ⚡ ETL processes (Extract, Transform, Load)
-
 📊 Query optimization for performance
-
 🔎 Analytical queries for business intelligence
-
 I enjoy working with SQL, Python, and data visualization tools to solve real-world business problems and design scalable solutions.
-
 💡 My goal is to keep learning, share projects that demonstrate my growth, and contribute to data-driven decision-making.
 
