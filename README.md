@@ -43,6 +43,7 @@ This repository showcases my work on building and managing a SQL Data Warehouse 
 ⚡ ETL processes (Extract, Transform, Load)
 📊 Query optimization for performance
 🔎 Analytical queries for business intelligence
+
 I enjoy working with SQL, Python, and data visualization tools to solve real-world business problems and design scalable solutions.
 💡 My goal is to keep learning, share projects that demonstrate my growth, and contribute to data-driven decision-making.
 
